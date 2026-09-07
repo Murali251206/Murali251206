@@ -1,110 +1,152 @@
-# Hi 👋, I'm Muraliprasath B
+<div align="center">
 
-### Software Developer | Problem Solver | Tech Enthusiast
+# 👋 Hi, I'm Muraliprasath B
 
-I'm a passionate developer focused on building practical,
-modern, and user-friendly applications while continuously
-learning and improving my technical skills.
+### 💻 Software Developer | 🚀 Problem Solver | 🌱 Tech Enthusiast
 
-## 🚀 About Me
+<p>
+  <a href="https://github.com/Murali251206">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-- 💻 Software Developer
-- 🌱 Currently learning new technologies and development skills
-- 🔭 Working on exciting projects
-- 🧠 Interested in software development and problem solving
-- 💡 Enjoy building real-world applications
-- 🤝 Open to collaboration and learning opportunities
-
-## 🛠️ Tech Stack
-
-### Languages
-Java • Python • JavaScript
-
-### Frontend
-HTML • CSS • JavaScript
-
-### Backend
-Java • Python
-
-### Database
-MySQL
-
-### Tools
-Git • GitHub • VS Code
-
-## 🚀 Featured Projects
-
-### 📅 Timetable Scheduling System
-
-A project designed to help create and manage timetables
-efficiently and organize schedules in a structured way.
-
-**Tech:** Java • Database
-
-[📂 Source Code](https://github.com/Murali251206/Timetable-Scheduling-System)
-
-### 📦 Inter-Hostel Courier Routing
-
-A project focused on managing courier routing between
-hostels and improving the organization of the delivery process.
-
-**Tech:** Programming • Algorithms
-
-[📂 Source Code](https://github.com/Murali251206/Inter-hostel-Courier-Routing-)
-
-### 📚 Bookstore
-
-A bookstore application focused on managing book-related
-information and operations.
-
-**Tech:** Programming • Database
-
-[📂 Source Code](https://github.com/Murali251206/Bookstore)
-
-### 📖 Book Store
-
-A project focused on developing a simple bookstore
-application and implementing core application functionality.
-
-**Tech:** HTML • CSS • JavaScript
-
-[📂 Source Code](https://github.com/Murali251206/book-store)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murali251206&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murali251206&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Murali251206&theme=tokyonight)
-
-## 🌱 Currently
-
-- Building real-world applications
-- Improving programming skills
-- Learning web development
-- Practicing problem solving
-- Exploring new technologies
-- Working on personal projects
-
-## 🎯 Goals
-
-- Become a skilled software developer
-- Build useful real-world applications
-- Improve Data Structures & Algorithms
-- Learn modern development technologies
-- Contribute to open source
-- Continuously improve my technical skills
-
-## 🌐 Connect With Me
-
-[GitHub](https://github.com/Murali251206) •
-[LinkedIn](https://linkedin.com/in/YOUR_USERNAME) •
-[Portfolio](https://yourwebsite.com) •
-[Email](mailto:your@email.com)
+</div>
 
 ---
 
-⭐️ From [Muraliprasath B](https://github.com/Murali251206)
+## 👨‍💻 About Me
+
+- 💻 Passionate about software development
+- 🌱 Currently learning and improving my technical skills
+- 🔭 Building real-world projects
+- 🧠 Interested in problem solving and modern technologies
+- 💡 Love turning ideas into useful applications
+- 🤝 Open to collaboration and learning opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📅 Timetable Scheduling System
+
+A project designed to create and manage timetables efficiently and organize schedules in a structured way.
+
+**Tech Stack**
+
+`Java` `Database`
+
+[🔗 View Project](https://github.com/Murali251206/Timetable-Scheduling-System)
+
+</td>
+
+<td width="50%">
+
+### 📦 Inter-Hostel Courier Routing
+
+A project focused on managing courier routing between hostels and improving the delivery process.
+
+**Tech Stack**
+
+`Programming` `Algorithms`
+
+[🔗 View Project](https://github.com/Murali251206/Inter-hostel-Courier-Routing-)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Bookstore
+
+A bookstore application focused on managing book-related information and operations.
+
+**Tech Stack**
+
+`Programming` `Database`
+
+[🔗 View Project](https://github.com/Murali251206/Bookstore)
+
+</td>
+
+<td width="50%">
+
+### 📖 Book Store
+
+A project focused on developing a simple bookstore application.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+[🔗 View Project](https://github.com/Murali251206/book-store)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Murali251206&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali251206&layout=compact&theme=tokyonight&hide_border=true" height="180">
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Murali251206&theme=tokyonight&hide_border=true">
+
+</div>
+
+## 🌱 Currently Learning
+
+💻 Programming
+🌐 Web Development
+🧩 Data Structures & Algorithms
+🗄️ Database Management
+☁️ Cloud Technologies
+🤖 Artificial Intelligence
